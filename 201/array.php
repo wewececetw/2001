@@ -1,0 +1,15 @@
+<?php
+	$url["main"]="main_2.php";
+	$url["admin"]="admin.php";
+	$url["login"]="login.php";
+	$url["out"]="out.php";
+	$url["ad_del"]="ad_del.php";
+	$url["ad_add"]="ad_add.php";
+	$url["new"]="new_list.php";
+	$url["new_add"]="new_add.php";
+	$url["new_up"]="new_up.php";
+	$url["menu"]="menu.php";
+	$url["menu_del"]="menu_del.php";
+	$url["service"]="service_list.php";
+	$url["service_re"]="service_re.php";
+?>

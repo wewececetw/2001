@@ -1,0 +1,12 @@
+<?php
+	$url["main"]="main_2.php";
+	$url["root"]="root.php";
+	$url["out"]="out.php";
+	$url["check"]="check.php";
+	$url["login"]="login.php";
+	$url["change"]="change.php";
+	$url["look"]="look.php";
+	$url["car"]="car.php";
+	$url["phone"]="phone.php";
+	$url["hollow"]="hollow.php";
+?>
